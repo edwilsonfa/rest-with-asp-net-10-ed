@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "G:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|g:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|g:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|g:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|g:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\restwithaspnet10ed.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,19 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Greeting.cs",
               "DocumentMoniker": "G:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Greeting.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Model\\Greeting.cs",
@@ -60,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GreetingController.cs",
               "DocumentMoniker": "G:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\GreetingController.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\GreetingController.cs",

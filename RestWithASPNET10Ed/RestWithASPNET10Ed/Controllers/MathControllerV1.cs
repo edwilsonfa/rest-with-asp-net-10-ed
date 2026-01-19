@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
 namespace RestWithASPNET10Ed.Controllers {
-    [ApiController]
-    [Route("[controller]")]
+    //[ApiController]
+    //[Route("[controller]")]
 
-    public class MathController : ControllerBase {
+    public class MathControllerV1 : ControllerBase {
     
         [HttpGet("sum/{firstNumber}/{secondNumber}")]
         public IActionResult Sum(string firstNumber, string secondNumber) {
@@ -62,6 +62,29 @@ namespace RestWithASPNET10Ed.Controllers {
 
        
 
+        private bool isNumeric(string strNumber)
+        {
+            decimal decimalValue;
+            bool isNumber = decimal.TryParse(
+                strNumber,
+                System.Globalization.NumberStyles.Any,
+                System.Globalization.NumberFormatInfo.InvariantInfo,
+                out decimalValue
+                );//BR 10,5 - US 10.5
+            return isNumber;
+        }
+
+        private decimal ConvertToDecimal(string strNumber) {
+            decimal decimalValue;
+            if(decimal.TryParse(
+                strNumber,
+               System.Globalization.NumberStyles.Any,
+                System.Globalization.NumberFormatInfo.InvariantInfo,
+                out decimalValue)){
+                return decimalValue;
+            }
+            return 0;
+        }
 
 
     }

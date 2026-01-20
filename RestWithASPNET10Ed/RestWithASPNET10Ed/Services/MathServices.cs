@@ -1,6 +1,7 @@
 ﻿namespace RestWithASPNET10Ed.Services {
     public class MathServices {
         public decimal Sum(decimal firstNumber, decimal secondNumber) => firstNumber + secondNumber;
+        public decimal Mean(decimal firstNumber, decimal secondNumber) => (firstNumber + secondNumber)/2;
         public decimal Subtraction(decimal firstNumber, decimal secondNumber) => firstNumber - secondNumber;
         public decimal Multiplication(decimal firstNumber, decimal secondNumber) => firstNumber * secondNumber;
         public decimal Division(decimal firstNumber, decimal secondNumber) {

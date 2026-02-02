@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\services\\impl\\personservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\services\\impl\\personservicesimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,12 +15,16 @@
       "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\services\\ipersonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\services\\mathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\services\\mathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\controllers\\mathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\controllers\\greetingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\services\\mathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\services\\mathservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\model\\greeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|solutionrelative:restwithaspnet10ed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7EBF5142-E822-AB89-0CC8-7EF3E1404286}|RestWithASPNET10Ed\\RestWithASPNET10Ed.csproj|d:\\cursos\\c#\\leandro_costa\\rest-with-asp-net-10-ed\\restwithaspnet10ed\\restwithaspnet10ed\\restwithaspnet10ed.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
@@ -62,32 +62,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonServicesImpl.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\Impl\\PersonServicesImpl.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Services\\Impl\\PersonServicesImpl.cs",
               "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\Impl\\PersonServicesImpl.cs",
               "RelativeToolTip": "RestWithASPNET10Ed\\Services\\Impl\\PersonServicesImpl.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwCQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T21:08:17.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "RestWithASPNET10Ed\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:58:57.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Program.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Program.cs",
+              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Program.cs",
+              "RelativeToolTip": "RestWithASPNET10Ed\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-19T18:25:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "IPersonServices.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\IPersonServices.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Services\\IPersonServices.cs",
@@ -100,32 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\PersonController.cs",
-              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "RestWithASPNET10Ed\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MathServices.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\MathServices.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Services\\MathServices.cs",
+              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\MathServices.cs",
+              "RelativeToolTip": "RestWithASPNET10Ed\\Services\\MathServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:58:57.713Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Person.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Person.cs",
-              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Model\\Person.cs",
-              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Person.cs",
-              "RelativeToolTip": "RestWithASPNET10Ed\\Model\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T17:56:39.551Z",
+              "WhenOpened": "2026-01-19T19:58:04.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "GreetingController.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\GreetingController.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\GreetingController.cs",
@@ -138,6 +152,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Model\\Person.cs",
+              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Person.cs",
+              "RelativeToolTip": "RestWithASPNET10Ed\\Model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T17:56:39.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "MathControllerV1.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\MathControllerV1.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\MathControllerV1.cs",
@@ -149,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "MathController.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Controllers\\MathController.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Controllers\\MathController.cs",
@@ -162,18 +188,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MathServices.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\MathServices.cs",
-              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Services\\MathServices.cs",
-              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Services\\MathServices.cs",
-              "RelativeToolTip": "RestWithASPNET10Ed\\Services\\MathServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T19:58:04.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "NumberHelper.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Utils\\NumberHelper.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Utils\\NumberHelper.cs",
@@ -185,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Greeting.cs",
               "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Model\\Greeting.cs",
               "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Model\\Greeting.cs",
@@ -194,18 +208,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T19:21:24.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Program.cs",
-              "RelativeDocumentMoniker": "RestWithASPNET10Ed\\Program.cs",
-              "ToolTip": "D:\\Cursos\\C#\\Leandro_Costa\\rest-with-asp-net-10-ed\\RestWithASPNET10Ed\\RestWithASPNET10Ed\\Program.cs",
-              "RelativeToolTip": "RestWithASPNET10Ed\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-19T18:25:47.646Z"
             },
             {
               "$type": "Document",

@@ -41,10 +41,10 @@ namespace RestWithASPNET10Ed.Services.Impl
             var person = new Person
             {
                 Id = new Random().Next(1, 1000),
-                FirstName = "John"+ i,
-                LastName = "Doe"+i,
-                Address = "123 Main Street"+i,
-                Gender = "Male"
+                FirstName = "John "+ i,
+                LastName = "Doe "+i,
+                Address = "123 Main Street "+i,
+                Gender = "Male "+1
             };
 
             return person;
